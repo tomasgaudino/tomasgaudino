@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tomasgaudino
 - 😎 My friends call me Drupman
-- 👀 I’m interested in everything that 
 - 🌱 I’m currently learning high frequency trading
 - 💞️ I’m looking to collaborate on any project that involves Python and data
 - 📫 How to reach me tomas.gaudino@thinking-science.com
